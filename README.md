@@ -12,5 +12,5 @@
 
 <h2>📷 Fotos do projeto</h2>
 <div>
-  <img src="https://i.imgur.com/8USunvG.png" alt="Imagem projeto">
+  <img src="https://i.imgur.com/wyTwLvg.png" alt="Imagem projeto">
 </div>
