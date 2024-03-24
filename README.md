@@ -1,4 +1,4 @@
-<h1>Chat feito para plataforma OBI</h1>
+<h1>Cadastro e listagem de produtos</h1>
 
 <h2>🗒️ Sobre</h2>
 <p>Cadastro para listagem de produtos, fiz para uma tentativa de ingressar em uma empresa. Treinando JavaScript.</p>
